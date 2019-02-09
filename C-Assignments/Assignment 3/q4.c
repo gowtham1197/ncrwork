@@ -37,6 +37,7 @@ void shifting(int num)
 					break;
 					case 2:printf("%x\n",num>>k);
 					break;
+					//
 				}
 }
 
