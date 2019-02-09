@@ -1,0 +1,11 @@
+int x[8]= {10,20,30,40,50,60,70,80};
+
+a. What is the meaning of x : Base Address of array x
+
+b. What is the meaning of (x+2) : Address of 30
+
+c. What is the value of *x : 10
+
+d. What is the value of (*x+2) : 12
+
+e. What is the value of *(x+2) : 30
