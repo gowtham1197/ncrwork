@@ -1,0 +1,12 @@
+char *color[6] = {“red”, “green”, “blue”, “white”, “black”, “yellow”};
+Answers for the Questions
+
+a: color refers to the an array of pointers
+
+b: color+2 means the address of third string
+
+c: *color means the address of first string
+
+d: *(color+2) value is address of third string first character
+
+e: It Gives same value,only representations are same
