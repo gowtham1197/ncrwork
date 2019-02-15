@@ -90,7 +90,5 @@ int main(int argc, char const *argv[])
 			case 3: exit(0);
 		}
 	}
-	// to stop console from closing
-	system("pause");
 	return 0;
 }
